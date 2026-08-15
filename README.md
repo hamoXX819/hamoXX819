@@ -1,103 +1,133 @@
-# hamoXX819
+<div align="center">
 
-## 現場経験 × IT開発 × 課題解決
+# hamox / hamoXX819
 
-3DCADスクリプト開発・DB連携
-機械設計・画像検査・PLCなどの現場経験を土台に、
-Webアプリ・モバイルアプリ・業務改善システムの開発に取り組んでいます。
+### Ideas → Systems → Experiences
+
+**Software Development · Infrastructure · Security · Creative Coding**
+
+[![HAMOXIA](https://img.shields.io/badge/HAMOXIA-hamoxia.com-111111?style=for-the-badge)](https://hamoxia.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-HAMOXIA-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HAMOXIA)
+
+</div>
+
+---
+
+## About
+
+製造・生産技術の現場経験を土台に、Web、アプリ、インフラ、セキュリティ、ゲーム表現まで横断して制作しています。
+
+3DCADスクリプト、DB連携、機械設計、PLC、画像検査など、**「現場で実際に使われる仕組み」**に触れてきた経験を、現在のソフトウェア開発にも活かしています。
 
 技術そのものを目的にするのではなく、
-**「誰の、どんな課題を、どう解決するか」** を重視しています。
+
+> **誰の、どんな課題やアイデアを、どう形にするか。**
+
+を大切にしています。
 
 ---
 
-## Portfolio
+## What I Build
 
-- [Portfolio Site](https://hamoxx819.github.io/)
----
-
-## Main Focus
-
-- Webアプリケーション開発
-- モバイルアプリ開発
-- 業務改善システム開発
-- 地域課題・防災・教育向けシステム
-- インフラ・セキュリティも理解できるアプリ開発
+- 🌐 **Web / Web Apps** — ポートフォリオ、業務ツール、情報ダッシュボード
+- 📱 **Applications** — Flutterを中心としたモバイルアプリ
+- 🎮 **Creative Coding / Games** — Three.js、TypeScript、3D表現を使った体験制作
+- 🖥️ **Infrastructure** — Linux / VPS / Nginx / PostgreSQL を使った自前運用
+- 🔐 **Security** — Webセキュリティ、ネットワーク、検証環境の構築
+- ⚙️ **Automation** — 情報収集、監視、業務改善の自動化
 
 ---
 
-## Skills
+## Current Projects
 
-### 制作で使用
-- HTML / CSS / JavaScript
-- PHP / MySQL
-- Flutter / Dart
-- PostgreSQL
-- Git / GitHub
+### 🌒 HAMOXIA
 
-### 学習・検証中
-- Linux
-- Docker
-- Azure
-- AWS
-- Raspberry Pi
+**「思いつきを、かたちに。」**を軸にした個人クリエイティブ / テクノロジープロジェクト。
 
-### 今後強化したい領域
-- セキュリティ
-- C++
-- ネットワーク
+Web、ゲーム、3D、音楽、実験的なツールなど、ジャンルを固定せず制作しています。
 
-### 現場経験
-- C#
-- VB.NET
-- DB2
-- 2DCAD
-- PLC
-- 画像検査
+**Website:** https://hamoxia.com/
+
+### ⚙️ Gearwander
+
+Three.js + TypeScript をベースに開発している、巨大な歯車と機械都市を旅する三人称視点の雰囲気ゲーム。
+
+世界観、3Dモデル、サウンドまで含めた一体的な体験づくりを進めています。
+
+### 📰 RSS Intelligence
+
+RSS / Atom フィードを収集し、重要度・カテゴリ・未読状態などを整理して、必要な情報へ素早くアクセスするための個人向け情報基盤。
+
+### 🛡️ Security / Infrastructure Lab
+
+Linux、VPS、Nginx、PostgreSQL、ネットワーク、Webセキュリティを、実際に構築・運用しながら検証する環境を作っています。
 
 ---
 
-## Featured Projects
+## Tech Stack
 
-### 学校ポータルアプリ
+### Languages / Application
 
-学生が必要な情報をスマートフォンから確認できるポータルアプリです。
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-- 使用技術: Flutter, PostgreSQL
-- 機能: 電子学生証、出欠確認、時間割、FAQ、学習記録
-- 目的: 学校生活に必要な情報を一つのアプリに集約すること
-- 工夫: スマホファーストで、学生が迷わず使える情報導線を意識
-- 今後: NFC出席、通知機能、FAQチャットボットを追加予定
+### Web / Data / Infrastructure
 
-### 防災アプリ
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-地域の災害情報や避難支援を目的としたアプリです。
+### Creative / Exploring
 
-- Repository: 準備中
-- 使用技術: Flutter, PostgreSQL
-- 目的: 必要な災害情報を分かりやすく届けること
-- 想定機能: 避難情報、雨量・河川情報、マップ連携、自治体情報への導線
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+
+---
+
+## Featured Public Repository
+
+### [Cyber-Defense-Grid](https://github.com/hamoXX819/Cyber-Defense-Grid)
+
+セキュリティ分野の学習・検証を、実際に触れる形へ落とし込むためのプロジェクトです。
 
 ---
 
 ## Certifications / Licenses
 
-### IT
-- 基本情報技術者
 - 情報セキュリティマネジメント
-
-### 技術・現場系
 - 第二種電気工事士
 - ガス溶接技能講習
 - フォークリフト運転技能講習
 - 大型特殊自動車免許
-- 準中型自動車免許 MT
+- 準中型自動車免許（MT）
 
 ---
 
-## Values
+## Philosophy
+
+**Observe → Prioritize → Build → Improve**
 
 - 実用性を重視する
-- 使う人の立場で考える
+- 使う人の立場から考える
 - 現場の課題を仕組みで解決する
-- 技術を「目的」ではなく「課題解決の手段」として使う
+- 小さく作り、検証し、改善を重ねる
+- 技術領域の境界に縛られず、必要な手段を選ぶ
+
+<div align="center">
+
+### Build what matters.
+
+**HAMOXIA — 思いつきを、かたちに。**
+
+</div>
