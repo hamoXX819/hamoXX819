@@ -6,61 +6,45 @@
 
 **Software Development · Infrastructure · Security · Creative Coding**
 
-[![HAMOXIA](https://img.shields.io/badge/HAMOXIA-hamoxia.com-111111?style=for-the-badge)](https://hamoxia.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-HAMOXIA-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HAMOXIA)
-
 </div>
 
 ---
 
 ## About
 
-製造・生産技術の現場経験を土台に、Web、アプリ、インフラ、セキュリティ、ゲーム表現まで横断して制作しています。
+製造・生産技術の現場経験を土台に、
+ソフトウェア開発、Web、インフラ、セキュリティなどを横断して学習・開発しています。
 
-3DCADスクリプト、DB連携、機械設計、PLC、画像検査など、**「現場で実際に使われる仕組み」**に触れてきた経験を、現在のソフトウェア開発にも活かしています。
+これまで、3DCADスクリプト、データベース連携、機械設計、PLC、画像検査など、
+**「現場で実際に使われる仕組み」**に関わってきました。
 
-技術そのものを目的にするのではなく、
+現在はその経験を活かしながら、
 
-> **誰の、どんな課題やアイデアを、どう形にするか。**
+課題を整理し、必要な技術を選び、実際に動く仕組みへ落とし込むことを重視して開発しています。
 
-を大切にしています。
-
----
-
-## What I Build
-
-- 🌐 **Web / Web Apps** — ポートフォリオ、業務ツール、情報ダッシュボード
-- 📱 **Applications** — Flutterを中心としたモバイルアプリ
-- 🎮 **Creative Coding / Games** — Three.js、TypeScript、3D表現を使った体験制作
-- 🖥️ **Infrastructure** — Linux / VPS / Nginx / PostgreSQL を使った自前運用
-- 🔐 **Security** — Webセキュリティ、ネットワーク、検証環境の構築
-- ⚙️ **Automation** — 情報収集、監視、業務改善の自動化
+特定の技術領域に限定せず、目的に応じて必要な技術を組み合わせるスタイルです。
 
 ---
 
-## Current Projects
+## What I Work With
 
-### 🌒 HAMOXIA
+🌐 Web / Web Applications
+Webサイト、業務ツール、情報管理・可視化
 
-**「思いつきを、かたちに。」**を軸にした個人クリエイティブ / テクノロジープロジェクト。
+📱 Application Development
+Flutter / Dart を中心としたアプリケーション開発
 
-Web、ゲーム、3D、音楽、実験的なツールなど、ジャンルを固定せず制作しています。
+🖥️ Infrastructure
+Linux / VPS / Docker / Nginx / PostgreSQL
 
-**Website:** https://hamoxia.com/
+🔐 Security
+Webセキュリティ、ネットワーク、検証環境の構築
 
-### ⚙️ Gearwander
+⚙️ Automation
+情報収集、監視、定型作業の自動化
 
-Three.js + TypeScript をベースに開発している、巨大な歯車と機械都市を旅する三人称視点の雰囲気ゲーム。
-
-世界観、3Dモデル、サウンドまで含めた一体的な体験づくりを進めています。
-
-### 📰 RSS Intelligence
-
-RSS / Atom フィードを収集し、重要度・カテゴリ・未読状態などを整理して、必要な情報へ素早くアクセスするための個人向け情報基盤。
-
-### 🛡️ Security / Infrastructure Lab
-
-Linux、VPS、Nginx、PostgreSQL、ネットワーク、Webセキュリティを、実際に構築・運用しながら検証する環境を作っています。
+🧪 Prototyping
+アイデアや技術を実際に動かして検証する小規模開発
 
 ---
 
@@ -105,9 +89,9 @@ Linux、VPS、Nginx、PostgreSQL、ネットワーク、Webセキュリティを
 
 ## Certifications / Licenses
 
+- 基本情報技術者
 - 情報セキュリティマネジメント
 - 第二種電気工事士
-- ガス溶接技能講習
 - フォークリフト運転技能講習
 - 大型特殊自動車免許
 - 準中型自動車免許（MT）
